@@ -38,7 +38,7 @@ const Footer = () => {
                     <a href="https://www.facebook.com/share/1FJztaqvZA/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
                     <i className="fa-brands fa-facebook-f"></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/viktoriia-domets-3a7361359/" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
+                    <a href="https://www.linkedin.com/in/viktoriia-domets-3a7361359?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
                     <i className="fa-brands fa-linkedin"></i>
                     </a>
                     </div>

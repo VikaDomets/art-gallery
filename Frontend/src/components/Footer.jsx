@@ -29,7 +29,7 @@ const Footer = () => {
                     <a href="https://www.instagram.com/vika_domets?igsh=M2tud2FwdWg5NzN4" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
                     <i className="fa-brands fa-instagram"></i>
                     </a>
-                    <a href="https://www.tiktok.com/@stemodakiv?_t=ZM-8vvIsdnfg86&_r=1" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
+                    <a href="https://www.tiktok.com" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
                     <i className="fa-brands fa-tiktok"></i>
                     </a>
                     <a href="https://youtube.com/@vikadomets2119?si=8f1IN5vdX7IN0kI-" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
@@ -38,7 +38,7 @@ const Footer = () => {
                     <a href="https://www.facebook.com/share/1FJztaqvZA/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
                     <i className="fa-brands fa-facebook-f"></i>
                     </a>
-                    <a href="https://ua.linkedin.com/in/%D0%B2%D1%96%D0%BA%D1%82%D0%BE%D1%80%D1%96%D1%8F-%D0%B4%D0%BE%D0%BC%D0%B5%D1%86%D1%8C-3a7361359" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
+                    <a href="https://www.linkedin.com/in/viktoriia-domets-3a7361359/" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
                     <i className="fa-brands fa-linkedin"></i>
                     </a>
                     </div>
